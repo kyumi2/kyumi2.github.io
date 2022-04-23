@@ -3,7 +3,10 @@ layout: post
 title: "My Resume"
 date: 2022-04-21
 excerpt: "A resume worth a thousand applications"
-tags: [resume, CV, professionl]
+tags: 
+- resume
+- CV
+- professionl
 ---
 
 ## Education 
