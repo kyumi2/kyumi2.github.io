@@ -2,8 +2,8 @@
 layout: post
 title:  "Claims Database Project"
 date:   2022-12-21
-project: yes
 excerpt: "One of the first projects I completed during my graduate studies"
+project: true
 tag:
 - project
 - claims
