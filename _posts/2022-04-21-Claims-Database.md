@@ -2,6 +2,7 @@
 layout: post
 title:  "Claims Database Project"
 date: 2022-04-21
+image:  "https://cdn-icons-png.flaticon.com/512/2906/2906206.png"
 excerpt:  "One of the first projects I completed during my graduate studies"
 project:  true
 tag:
