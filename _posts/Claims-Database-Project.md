@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: post
 title:  "Claims Database Project"
 date: 2022-04-21
-excerpt: "One of the first projects I completed during my graduate studies"
-project: true
+excerpt:  "One of the first projects I completed during my graduate studies"
+project:  true
 tag:
 - project
 - claims
