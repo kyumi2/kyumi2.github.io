@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Instructional Design Proect"
+title: "Instructional Design Project"
 date: 2022-04-21
 excerpt: "One of the first projects I compeleted during my graduate studies"
 project: true
