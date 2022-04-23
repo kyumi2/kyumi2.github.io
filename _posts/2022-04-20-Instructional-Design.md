@@ -2,6 +2,7 @@
 layout: post
 title: "Instructional Design Project"
 date: 2022-04-21
+image:  "https://cdn-icons-png.flaticon.com/512/1705/1705312.png"
 excerpt: "One of the first projects I compeleted during my graduate studies"
 project: true
 tag:
