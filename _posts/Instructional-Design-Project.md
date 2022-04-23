@@ -2,14 +2,14 @@
 layout: post
 title:  "Instructional Design Proect"
 date:   2022-12-21
-project: yes
 excerpt: "One of the first projects I completed during my graduate studies"
+project: true
 tag:
 - project
 - instructional
 - design
 - ID
-- jekyll
+- educational technology
 ---
 ### Instructional Design Project
 #### Purpose: 
